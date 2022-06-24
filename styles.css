@@ -132,4 +132,8 @@ strong{
         text-align: center;
         align-items: center;
     }
+      .f2{
+        align-items: center;
+        margin-left: 50px;
+    }
 }
